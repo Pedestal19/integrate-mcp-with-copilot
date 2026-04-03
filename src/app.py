@@ -105,6 +105,13 @@ def seed_initial_data():
             "location": "Room 103",
             "max_participants": 12,
             "category": "non-technical"
+        },
+        "Manga Maniacs": {
+            "description": "Explore the fantastic stories of the most interesting characters in Japanese manga (graphic novels)",
+            "schedule": "Tuesdays at 7:00 PM",
+            "location": "Library",
+            "max_participants": 15,
+            "category": "non-technical"
         }
     }
     
